@@ -27,7 +27,8 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "engines": {
-    "node": "18.x"
-  }
+ "engines": {
+  "node": "22.x"
+}
+
 }
